@@ -1,0 +1,46 @@
+_repo: Prof.-Koch-s-Method-to-Cure-Tuberculosis-Popularly-Treated_27181
+_version: 0.1.0
+alternative_title: Professor Koch's Method to Cure Tuberculosis Popularly Treated
+contributor:
+  contributor:
+    agent_name: Koch, Robert
+    alias: Kokh, Heinrich Hermann Robert
+    birthdate: 1843
+    deathdate: 1910
+    gutenberg_agent_id: '32531'
+    url: http://www.gutenberg.org/2009/agents/32531
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Robert_Koch
+    - http://en.wikipedia.org/wiki/Robert_Koch
+  translator:
+    agent_name: Brendecke, Fr. (Friedrich)
+    aliases:
+    - Brenndecke, Fr. (Friedrich)
+    - Brendecke, Friedrich
+    gutenberg_agent_id: '32518'
+    url: http://www.gutenberg.org/2009/agents/32518
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Birnbaum, Max
+    birthdate: 1862
+    gutenberg_agent_id: '32517'
+    url: http://www.gutenberg.org/2009/agents/32517
+description: ''
+gutenberg_issued: '2008-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27181'
+  lccn: 07032438
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tuberculosis'
+- !lcc 'RM'
+- !lcsh 'Tuberculin'
+title: Prof. Koch's Method to Cure Tuberculosis Popularly Treated
+url: http://www.gutenberg.org/ebooks/27181
